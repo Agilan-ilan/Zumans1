@@ -1,0 +1,4 @@
+copy and paste the folder "ZUMANS" in the C drive before running or compiling the source code.....
+to just run ,go to the dist//Zuamans1.jar
+to see all the classes ,go to the src//zumans1
+.....must have netbeans or visual studio or notepad ,,,
